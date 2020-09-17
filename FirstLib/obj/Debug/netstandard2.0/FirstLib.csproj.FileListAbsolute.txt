@@ -1,0 +1,18 @@
+C:\Users\satvats2\Documents\Projects\Pipeline\FirstLib\bin\Debug\netstandard2.0\FirstLib.deps.json
+C:\Users\satvats2\Documents\Projects\Pipeline\FirstLib\bin\Debug\netstandard2.0\FirstLib.dll
+C:\Users\satvats2\Documents\Projects\Pipeline\FirstLib\bin\Debug\netstandard2.0\FirstLib.pdb
+C:\Users\satvats2\Documents\Projects\Pipeline\FirstLib\obj\Debug\netstandard2.0\FirstLib.csprojAssemblyReference.cache
+C:\Users\satvats2\Documents\Projects\Pipeline\FirstLib\obj\Debug\netstandard2.0\FirstLib.AssemblyInfoInputs.cache
+C:\Users\satvats2\Documents\Projects\Pipeline\FirstLib\obj\Debug\netstandard2.0\FirstLib.AssemblyInfo.cs
+C:\Users\satvats2\Documents\Projects\Pipeline\FirstLib\obj\Debug\netstandard2.0\FirstLib.csproj.CoreCompileInputs.cache
+C:\Users\satvats2\Documents\Projects\Pipeline\FirstLib\obj\Debug\netstandard2.0\FirstLib.dll
+C:\Users\satvats2\Documents\Projects\Pipeline\FirstLib\obj\Debug\netstandard2.0\FirstLib.pdb
+C:\Users\kanverma\Documents\dotnet training\pod1demo\Pipeline\FirstLib\bin\Debug\netstandard2.0\FirstLib.deps.json
+C:\Users\kanverma\Documents\dotnet training\pod1demo\Pipeline\FirstLib\bin\Debug\netstandard2.0\FirstLib.dll
+C:\Users\kanverma\Documents\dotnet training\pod1demo\Pipeline\FirstLib\bin\Debug\netstandard2.0\FirstLib.pdb
+C:\Users\kanverma\Documents\dotnet training\pod1demo\Pipeline\FirstLib\obj\Debug\netstandard2.0\FirstLib.csprojAssemblyReference.cache
+C:\Users\kanverma\Documents\dotnet training\pod1demo\Pipeline\FirstLib\obj\Debug\netstandard2.0\FirstLib.AssemblyInfoInputs.cache
+C:\Users\kanverma\Documents\dotnet training\pod1demo\Pipeline\FirstLib\obj\Debug\netstandard2.0\FirstLib.AssemblyInfo.cs
+C:\Users\kanverma\Documents\dotnet training\pod1demo\Pipeline\FirstLib\obj\Debug\netstandard2.0\FirstLib.csproj.CoreCompileInputs.cache
+C:\Users\kanverma\Documents\dotnet training\pod1demo\Pipeline\FirstLib\obj\Debug\netstandard2.0\FirstLib.dll
+C:\Users\kanverma\Documents\dotnet training\pod1demo\Pipeline\FirstLib\obj\Debug\netstandard2.0\FirstLib.pdb
